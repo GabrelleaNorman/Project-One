@@ -28,4 +28,26 @@ This file analyzes the data located in NBA_Player_of_the_Week.csv.
 
 Ensure that NBA_Player_of_the_Week.csv is located in the same folder as NBA Analytics.ipynb.  If it is not, please update the file path or place the files in the same folder.
 Run the code in order
-If you would like to only see data from a specific chart, first run the cleaning data.  Your chart may also depend on variables established in previous lines of coding.  Ensure that
+If you would like to only see data from a specific chart, first run the cleaning data.  Your chart may also depend on variables established in previous lines of coding.  Ensure that you run the lines defining all modules present in the chart to avoid errors.
+
+# Table of Contents
+Who are the most successful players and teams? 	
+Best Players with at Least 12 Players of the Week accomplishment
+Number of Player of the Week By Team
+What level of experience determined the NBA player of the week? 
+What is the average age of NBA players who won player of the week per season? (Average Age Per Season)
+Does having less experience in the league increase the chances of receiving NBA player of the week? (Players Seasons in League)
+What was the average height of the player who won Player of the Week? 	
+What experience did the best players have before they got to the NBA? 
+ Top 10 draft classes by Year
+Player of the Week Drafted in 2003
+Player of the Week Drafted in 2011	
+
+# PowerPoint Analysis
+Using the cleaned data, multiple charts were presented.
+The PowerPoint created provides conclusion and analysis based on the four initial questions asked.
+https://docs.google.com/presentation/d/1029jsJnZ1rayFDC0rL7Nb_f1Ktf7tjctbfw3z8r9i4k/edit?usp=sharing	
+
+# Credits
+The collaborators were Adam Griffith, Gabrellea Norman, Nick Remen, Roberto Guiterrez. 
+We utilized Kaggle to find the CSV used for the project  NBA player of the week | Kaggle
