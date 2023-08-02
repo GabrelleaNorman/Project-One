@@ -9,6 +9,8 @@ Our goal of the project was to analyze the winningest player and franchise, see 
 # Grabbing the Data
 To start, load in the NBA player of the week dataset from kaggle. https://www.kaggle.com/datasets/jacobbaruch/nba-player-of-the-week?resource=download
 
+# Cleaning the Data
+Throughout the history of the NBA, many teams have relocated or changed their team name. In order to tell the complete story adjust the names of each team that has gone through a change over the years so that all 30 NBA teams had their correct data history.
 
 # Installation:
 Install Python, Pandas, and Matplotlib on your computer
