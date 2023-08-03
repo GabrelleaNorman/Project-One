@@ -10,7 +10,7 @@ Our goal of the project was to analyze the winningest player and franchise, see 
 To start, load in the NBA player of the week dataset from kaggle. https://www.kaggle.com/datasets/jacobbaruch/nba-player-of-the-week?resource=download
 
 # Cleaning the Data
-Throughout the history of the NBA, many teams have relocated or changed their team name. In order to tell the complete story adjust the names of each team that has gone through a change over the years so that all 30 NBA teams had their correct data history.
+Throughout the history of the NBA, many teams have relocated or changed their team name. In order to tell the complete story adjust the names of each team that has gone through a change over the years so that all 30 NBA teams had their correct data history. In the NBA there are guards, forwards, and centers, but the dataset indicates 11 unique positions. These positions need to be grouped and cleaned so the data only uses guards, forwards, and centers.
 
 # Installation:
 Install Python, Pandas, and Matplotlib on your computer
@@ -34,12 +34,14 @@ If you would like to only see data from a specific chart, first run the cleaning
 Who are the most successful players and teams? 	
 Best Players with at Least 12 Players of the Week accomplishment
 Number of Player of the Week By Team
+
 What level of experience determined the NBA player of the week? 
 What is the average age of NBA players who won player of the week per season? (Average Age Per Season)
 Does having less experience in the league increase the chances of receiving NBA player of the week? (Players Seasons in League)
+
 What was the average height of the player who won Player of the Week? 	
-What experience did the best players have before they got to the NBA? 
- Top 10 draft classes by Year
+ 
+Top 10 draft classes by Year
 Player of the Week Drafted in 2003
 Player of the Week Drafted in 2011	
 
